@@ -3,6 +3,7 @@
 Converting and evaluating the tflite model
 
 Contact if need assistance: Joey; jmule2@umbc.edu
+
 Note: Change any directories, file paths, and file names needed within the code to suit your needs
 Step 1:
 Run ‘convert.py’ with the following command/arguments
